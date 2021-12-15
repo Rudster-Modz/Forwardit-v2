@@ -40,7 +40,7 @@ SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString
 
 ### Deploying on Railway:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FJijinr%2FFrwdit-V2&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2COWNER_ID%2CCAPTION%2CFILTER_TYPE%2CSESSION&optionalEnvs=CAPTION&API_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org+or+%40UseTGSBot&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org+or+%40UseTGSBot&BOT_TOKENDesc=Your+bot+token+from+%40BotFather&OWNER_IDDesc=Enter+Your+Telegram+id&CAPTIONDesc=If+you+want+to+add+a+caption+to+the+forwarded+file%2C+enter+it+here&FILTER_TYPEDesc=Type+Of+filters+%28document+%2C+audio+%2C+photo+%2C+video+%2C+animation%29&SESSIONDesc=Pyrogram+string+Seccion+-+https%3A%2F%2Freplit.com%2F%40JijinR%2FPyroSessionString%3Fv%3D1&FILTER_TYPEDefault=document&referralCode=Jijinr)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FRudster-Modz%2FForwardit-v2&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2COWNER_ID%2CCAPTION%2CFILTER_TYPE%2CSESSION&optionalEnvs=CAPTION&API_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org+or+%40UseTGSBot&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org+or+%40UseTGSBot&BOT_TOKENDesc=Your+bot+token+from+%40BotFather&OWNER_IDDesc=Enter+Your+Telegram+id&CAPTIONDesc=If+you+want+to+add+a+caption+to+the+forwarded+file%2C+enter+it+here&FILTER_TYPEDesc=Type+Of+filters+%28document+%2C+audio+%2C+photo+%2C+video+%2C+animation%29&SESSIONDesc=Pyrogram+string+Seccion+-+https%3A%2F%2Freplit.com%2F%40JijinR%2FPyroSessionString%3Fv%3D1&FILTER_TYPEDefault=document&referralCode=Jijinr)
 
 
 ### Legendary Way:
